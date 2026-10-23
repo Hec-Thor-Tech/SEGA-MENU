@@ -1,0 +1,20 @@
+# nunca subir juegos: van aparte (disco de la familia o la carpeta que elija cada PC)
+*.smd
+*.SMD
+*.bin
+*.BIN
+*.md.rom
+*.gen
+*.gs?
+*.srm
+*.est
+
+# datos de cada PC (favoritos, partidas, configuración, demos)
+usuario/
+
+# compilación
+release/
+build/
+dist/
+__pycache__/
+*.spec
